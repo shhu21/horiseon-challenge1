@@ -25,4 +25,4 @@ Refractor starter code.
 >> `benefit-lead`, `benefit-brand`, `benefit-cost` -> `benefit`
 
 <br><br>
-__*Live URL: *__ https://shhu21.github.io/horiseon-challenge1/
+__*Live URL:*__ https://shhu21.github.io/horiseon-challenge1/
