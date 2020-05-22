@@ -20,13 +20,13 @@ Refractor starter code.
 ### Consolidation of Duplicated Code
 
 > __Issue:__ Many of the CSS styles were duplicated with unnecessary multiple class declarations.  
-> __Soluation:__ Unnecessary classes were consolidated into one class. The following is the list of class changes:  
+> __Solution:__ Unnecessary classes were consolidated into one class. The following is the list of class changes:  
 >> `search-engine-optimization`, `online-reputation-management`, `social-media-marketing` -> `services` <br><br>
 >> `benefit-lead`, `benefit-brand`, `benefit-cost` -> `benefit`
 
 ### Sematic Tags
-> __Issue:__ Many of the html tags were non-sematic tags. 
-> __Soluation:__ `div`'s were changed to proper sematic tags, such as the following:
+> __Issue:__ Many of the html tags were non-sematic tags.  
+> __Solution:__ `div`'s were changed to proper sematic tags, such as the following:
 >> `header`, `nav`, `section`, `article`, `footer`
 
 ## Website Preview
