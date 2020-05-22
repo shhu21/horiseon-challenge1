@@ -29,7 +29,8 @@ Refractor starter code.
 > __Soluation:__ `div`'s were changed to proper sematic tags, such as the following:
 >> `header`, `nav`, `section`, `article`, `footer`
 
-### Website
+## Website Preview
 ![](./assets/images/screenshot.png)
+
 <br><br>
 __*Live URL:*__ https://shhu21.github.io/horiseon-challenge1/
