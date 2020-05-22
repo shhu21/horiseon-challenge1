@@ -74,11 +74,11 @@ p {
 
 .content {
     width: 75%;
-    display: inline-block;
     margin-left: 20px;
+    display: inline-block;
 }
 
-.content article {
+.services {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -87,11 +87,27 @@ p {
     color: #ffffff;
 }
 
-.content article img {
+.services img {
+    width: 35%;
     max-height: 200px;
+    float: left;
 }
 
-.content h2 {
+.content-desc {
+    padding: 35px;
+    float: left;
+    width: 65%;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.services h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
