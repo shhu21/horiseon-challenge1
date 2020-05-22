@@ -8,6 +8,15 @@ body {
     background-color: #d9dcd6;
 }
 
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
 /* Header */
 header {
     padding: 20px;
@@ -43,15 +52,7 @@ header nav ul li {
 }
 /**/
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
-
+/* Hero */
 .hero {
     height: 800px;
     width: 100%;
@@ -60,6 +61,7 @@ p {
     background-size: cover;
     background-position: center;
 }
+/**/
 
 /* Main content section */
 .content {
@@ -83,6 +85,11 @@ p {
     float: left;
 }
 
+.services h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
 .content-desc {
     padding: 35px;
     float: left;
@@ -95,11 +102,6 @@ p {
 
 .text-right {
     text-align: right;
-}
-
-.services h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 /**/
 

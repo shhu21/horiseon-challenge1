@@ -27,7 +27,8 @@ Refractor starter code.
 ### Sematic Tags
 > __Issue:__ Many of the html tags were non-sematic tags.  
 > __Solution:__ `div`'s were changed to proper sematic tags, such as the following:
->> `header`, `nav`, `section`, `article`, `footer`
+>> `header`, `nav`, `section`, `article`, `footer` <br/>
+> __Side Note:__ The "Online Reputation Mangement" section was rearranged, so the `img` tag would follow the content description instead of precede it and be viewed on the right side of the description when rendered.
 
 ## Website Preview
 ![](./assets/images/screenshot.png)
